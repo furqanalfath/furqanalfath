@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @furqanalfath
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning ghost themes
+- 🌱 I’m currently learning javascript
 
 <!---
 furqanalfath/furqanalfath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
